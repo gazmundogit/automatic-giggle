@@ -1,3 +1,5 @@
 This is a test and another
 
 local changes
+
+installation file added
